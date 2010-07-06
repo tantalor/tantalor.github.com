@@ -1,6 +1,6 @@
 ---
 layout: default
-title: tantaor.github.com
+title: tantalor.github.com
 ---
 
 <style type="text/css" media="screen">
