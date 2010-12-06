@@ -9,9 +9,10 @@ title: github.johntantalo.com
   }
 </style>
 
-{% if site.username %}
-# {{site.username}}.github.com
+# {{page.title}}
 
+
+{% if site.username %}
 My github profile: [github.com/{{site.username}}](http://github.com/{{site.username}})
 {% else %}
  * missing `username` to `_config.yaml`
