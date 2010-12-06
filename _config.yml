@@ -6,10 +6,10 @@ projects:
     desc: my first Google App Engine project
   -
     name: megaera
-    desc: a Google App Engine web framework, spun off of <strong>emend</strong>
+    desc: a Google App Engine web framework, factored out of <strong>emend</strong>
   -
     name: pretty_timedelta
-    desc: an internationalized python utility for formatting positive and negative timedeltas, spun off of <strong>emend</strong>
+    desc: an internationalized python utility for formatting positive and negative timedeltas, factored out of <strong>emend</strong>
   -
     name: graphjs
     desc: a Javascript class library for building and analyzing graphs
@@ -18,7 +18,7 @@ projects:
     desc: a Rapha&euml;l implementation of Planarity with <strong>graphjs</strong>
   -
     name: raphael.graph
-    desc: a Rapha&euml;l extension to create graphs using <strong>graphjs</strong>, spun off of <strong>raphael.planarity</strong>
+    desc: a Rapha&euml;l extension to create graphs using <strong>graphjs</strong>, factored out of <strong>raphael.planarity</strong>
   -
     name: tantalor.github.com
     desc: this document
