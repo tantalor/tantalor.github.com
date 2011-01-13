@@ -14,6 +14,9 @@ projects:
     name: graphjs
     desc: a Javascript class library for building and analyzing graphs
   -
+    name: steel
+    desc: a QUnit-compatible JavaScript testing framework, factored out of <strong>graphjs</strong>
+  -
     name: raphael.planarity
     desc: a Rapha&euml;l implementation of Planarity with <strong>graphjs</strong>
   -
