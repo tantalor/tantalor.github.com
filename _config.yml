@@ -22,6 +22,8 @@ projects:
   -
     name: raphael.graph
     desc: a Rapha&euml;l extension to create graphs using <strong>graphjs</strong>, factored out of <strong>raphael.planarity</strong>
+  - name: numdayssince
+    desc: A simple Google App Engine app to track the number of days since an event
   -
     name: tantalor.github.com
     desc: this document
