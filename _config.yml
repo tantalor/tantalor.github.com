@@ -27,3 +27,15 @@ projects:
   -
     name: tantalor.github.com
     desc: this document
+  -
+    name: gojs
+    desc: A JavaScript library based on the Go programming language
+  - 
+    name: gogogon
+    desc: A python platform for analyzing 1.USA.Gov shortlink clicks
+  -
+    name: emend-chrome-ext
+    desc: A Google Chrome extension for Emend
+  -
+    name: emend-safari-ext
+    desc: A Safari extension for Emend
